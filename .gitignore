@@ -1,11 +1,11 @@
 research/
-EuroSAT_RGB_JPEG_Q10/
-EuroSAT_RGB_JPEG_Q20/
-EuroSAT_RGB_JPEG_Q40/
-EuroSAT_RGB_JPEG_Q80/
+EuroSAT_RGB/
 *.pth
 *.pt
 __pycache__/
 *.pyc
 .DS_Store
-accuracy_vs_compression.png
+rq-vae/output/
+nac/data/
+nac/models/
+nac/logs/
